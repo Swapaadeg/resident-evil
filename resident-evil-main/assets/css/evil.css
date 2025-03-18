@@ -74,3 +74,20 @@ h1 {
 h2 {
     text-align: center;
 }
+
+.actualites__wrapper {
+    width: 100%;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-direction: column;
+    background-color: #282725;
+    color: white;
+}
+
+.actualites__wrapper img {
+    width: 30%;
+}
